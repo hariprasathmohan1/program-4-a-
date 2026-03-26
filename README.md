@@ -3,11 +3,11 @@ C module 4
 
 EX NO:3-a) Left shift Right shift. 
 
-Date:19/10/2025 
+Date:26.03.2026
 
-Name: VASANTH S 
+Name: HARI PRASATH M
 
-Ref no: 25017538
+Ref no: 25018172
 
 AIM:
 To write a C program to do left shift and right shift operation.
